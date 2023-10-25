@@ -1,0 +1,155 @@
+{
+    "folder":"acchen_000024",
+    "objects":[
+        {
+            "label":"ground",
+            "priority":"0",
+            "size":"0.49029"
+        },
+        {
+            "label":"sidewalk",
+            "priority":"0",
+            "size":"0.00371"
+        },
+        {
+            "label":"building",
+            "priority":"0",
+            "size":"0.54052"
+        },
+        {
+            "label":"pole",
+            "priority":"0",
+            "size":"0.00163"
+        },
+        {
+            "label":"traffic sign",
+            "priority":"0",
+            "size":"0.00173"
+        },
+        {
+            "label":"traffic sign",
+            "priority":"0",
+            "size":"0.00087"
+        },
+        {
+            "label":"pole",
+            "priority":"0",
+            "size":"0.00163"
+        },
+        {
+            "label":"traffic sign",
+            "priority":"0",
+            "size":"0.00251"
+        },
+        {
+            "label":"traffic sign",
+            "priority":"0",
+            "size":"0.00205"
+        },
+        {
+            "label":"traffic sign",
+            "priority":"0",
+            "size":"0.00213"
+        },
+        {
+            "label":"static",
+            "priority":"0",
+            "size":"0.00537"
+        },
+        {
+            "label":"pole",
+            "priority":"0",
+            "size":"0.00186"
+        },
+        {
+            "label":"static",
+            "priority":"0",
+            "size":"0.00210"
+        },
+        {
+            "label":"traffic sign",
+            "priority":"0",
+            "size":"0.00086"
+        },
+        {
+            "label":"person",
+            "priority":"0",
+            "size":"0.00475"
+        },
+        {
+            "label":"static",
+            "priority":"0",
+            "size":"0.00126"
+        },
+        {
+            "label":"static",
+            "priority":"0",
+            "size":"0.00113"
+        },
+        {
+            "label":"static",
+            "priority":"0",
+            "size":"0.00247"
+        },
+        {
+            "label":"person",
+            "priority":"0",
+            "size":"0.00130"
+        },
+        {
+            "label":"person",
+            "priority":"0",
+            "size":"0.00339"
+        },
+        {
+            "label":"static",
+            "priority":"0",
+            "size":"0.00061"
+        },
+        {
+            "label":"traffic sign",
+            "priority":"0",
+            "size":"0.00034"
+        },
+        {
+            "label":"car",
+            "priority":"0",
+            "size":"0.00377"
+        },
+        {
+            "label":"license plate",
+            "priority":"0",
+            "size":"0.00011"
+        },
+        {
+            "label":"car",
+            "priority":"0",
+            "size":"0.02304"
+        },
+        {
+            "label":"license plate",
+            "priority":"0",
+            "size":"0.00036"
+        },
+        {
+            "label":"car",
+            "priority":"0",
+            "size":"0.03669"
+        },
+        {
+            "label":"license plate",
+            "priority":"0",
+            "size":"0.00039"
+        },
+        {
+            "label":"ego vehicle",
+            "priority":"0",
+            "size":"0.04209"
+        },
+        {
+            "label":"out of roi",
+            "priority":"0",
+            "size":"0.01460"
+        }
+    ]
+}
